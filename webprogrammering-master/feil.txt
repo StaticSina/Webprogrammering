@@ -1,0 +1,584 @@
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:02 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 521 8 Undefined index: navn
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:05 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:09 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:11 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 298 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 299 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 300 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:12 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:13 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 536 8 Undefined variable: email
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 536 8 Undefined variable: email
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:14 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 536 8 Undefined variable: email
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 536 8 Undefined variable: email
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:15 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:22 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 537 8 Trying to get property of non-object
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 537 8 Trying to get property of non-object
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 537 8 Trying to get property of non-object
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:31 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 6 8 Undefined index: kjonn
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:35 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 6 8 Undefined index: kjonne
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:41 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 21:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
